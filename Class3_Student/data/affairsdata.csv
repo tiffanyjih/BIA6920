@@ -1,0 +1,602 @@
+Obs,Gender,Age,Years_Married,Children?,Religious,Education,Occupation,Marriage_Rating,Number of Affairs in Past Year
+1,female,40 years,15 years,yes,Very,Some college,Managerial/Administrative,Happier than average,0
+2,female,29 years,8 years,yes,Slightly,Master's degree,Managerial/Administrative,Very happy,0
+3,female,27 years,7 years,yes,Slightly,Some college,Student,Average,1
+4,female,27 years,1 years,no,Not at all,College graduate,White collar/Sales/Clerical,Very happy,0
+5,female,79 years,14 years,yes,Slightly,Master's degree,Managerial/Administrative,Somewhat unhappy,0
+6,female,29 years,1 years,no,Not at all,College graduate,Professional/Advanced Degree,Happier than average,0
+7,female,26 years,3 years,yes,Not at all,College graduate,Managerial/Administrative,Average,1
+8,female,31 years,8 years,yes,Somewhat,Some graduate work,Student,Very happy,0
+9,female,43 years,16 years,yes,Not at all,Master's degree,Managerial/Administrative,Happier than average,0
+10,male,27 years,9 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,7
+11,male,42 years,23 years,yes,Not at all,Some graduate work,White collar/Sales/Clerical,Very happy,0
+12,female,32 years,11 years,yes,Somewhat,College graduate,Student,Very happy,0
+13,male,44 years,8 years,yes,Not at all,College graduate,Managerial/Administrative,Very happy,0
+14,female,22 years,0.4167 years,no,Very,Some college,Student,Happier than average,0
+15,female,32 years,7 years,yes,Not at all,Some college,Student,Somewhat unhappy,0
+16,female,36 years,15 years,yes,Anti,Master's degree,Managerial/Administrative,Very happy,12
+17,male,30 years,6 years,yes,Slightly,Some college,Unemployed,Happier than average,1
+18,female,26 years,4 years,yes,Not at all,Master's degree,Professional/Advanced Degree,Very happy,0
+19,female,39 years,30 years,yes,Not at all,Some graduate work,Professional/Advanced Degree,Happier than average,11
+20,female,34 years,7 years,yes,Slightly,Some graduate work,Managerial/Administrative,Average,1
+21,female,20 years,1 years,yes,Somewhat,High school graduate,Student,Very happy,0
+22,male,25 years,7 years,no,Not at all,Doctoral degree,Professional/Advanced Degree,Very happy,0
+23,female,30 years,25 years,yes,Anti,High school graduate,Student,Happier than average,0
+24,male,27 years,3 years,yes,Slightly,College graduate,White collar/Sales/Clerical,Very happy,0
+25,male,26 years,3 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Very happy,0
+26,male,41 years,15 years,yes,Somewhat,Doctoral degree,Teacher/Social worker/Nurse/Technician,Very happy,0
+27,female,25 years,8 years,yes,Somewhat,High school graduate,Agriculture/Manufacturing,Happier than average,0
+28,male,31 years,11 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Very happy,0
+29,male,22 years,0.2500 years,no,Very,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,0
+30,female,22 years,2 years,no,Slightly,College graduate,Managerial/Administrative,Very happy,0
+31,female,21 years,1 years,no,Slightly,College graduate,Managerial/Administrative,Average,0
+32,male,42 years,0.1667 years,no,Somewhat,Some graduate work,Professional/Advanced Degree,Happier than average,0
+33,female,26 years,8 years,yes,Slightly,High school graduate,Student,Happier than average,0
+34,male,32 years,8 years,yes,Not at all,Master's degree,Teacher/Social worker/Nurse/Technician,Very unhappy,10
+35,male,27 years,6 years,no,Somewhat,High school graduate,Teacher/Social worker/Nurse/Technician,Average,0
+36,male,21 years,1 years,no,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+37,male,29 years,2 years,no,Anti,Master's degree,Managerial/Administrative,Very happy,0
+38,male,28 years,11 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+39,male,38 years,14 years,yes,Slightly,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+40,female,29 years,8 years,yes,Not at all,Master's degree,Student,Very happy,0
+41,male,44 years,25 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,7
+42,female,34 years,10 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Happier than average,0
+43,female,47 years,25 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+44,female,29 years,4 years,no,Slightly,Some graduate work,Managerial/Administrative,Very happy,0
+45,female,21 years,0.8333 years,no,Not at all,High school graduate,Student,Average,0
+46,male,20 years,4 years,no,Not at all,Master's degree,Managerial/Administrative,Very happy,0
+47,female,33 years,21 years,yes,Slightly,Grade school,Student,Very unhappy,16
+48,female,22 years,1 years,yes,Very,Some college,Managerial/Administrative,Average,1
+49,female,29 years,11 years,yes,Not at all,High school graduate,Student,Happier than average,0
+50,female,20 years,0.4167 years,yes,Slightly,Some college,White collar/Sales/Clerical,Very happy,0
+51,female,29 years,10 years,yes,Very,High school graduate,Student,Very happy,0
+52,male,37 years,11 years,yes,Not at all,Master's degree,Professional/Advanced Degree,Somewhat unhappy,0
+53,female,18 years,0.9167 years,yes,Not at all,High school graduate,White collar/Sales/Clerical,Very happy,14
+54,female,28 years,10 years,yes,Somewhat,Some college,Student,Very happy,2
+55,male,25 years,3 years,yes,Not at all,Master's degree,Professional/Advanced Degree,Somewhat unhappy,11
+56,female,32 years,25 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+57,female,54 years,31 years,yes,Very,Some graduate work,Student,Very unhappy,0
+58,male,33 years,1 years,no,Not at all,Master's degree,Professional/Advanced Degree,Very happy,0
+59,male,24 years,5 years,yes,Somewhat,College graduate,Managerial/Administrative,Very happy,0
+60,female,33 years,12 years,yes,Slightly,Master's degree,Managerial/Administrative,Happier than average,0
+61,male,26 years,7 years,yes,Somewhat,Master's degree,Managerial/Administrative,Happier than average,0
+62,female,24 years,0.6667 years,no,Anti,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+63,female,28 years,4 years,yes,Slightly,Some graduate work,Student,Very happy,5
+64,female,42 years,24 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Very happy,0
+65,female,32 years,2 years,no,Very,Master's degree,Managerial/Administrative,Very happy,0
+66,female,38 years,24 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Happier than average,0
+67,female,32 years,10 years,yes,Slightly,High school graduate,Student,Happier than average,0
+68,female,29 years,4 years,yes,Somewhat,College graduate,Student,Very happy,0
+69,female,34 years,7 years,yes,Not at all,Some graduate work,Professional/Advanced Degree,Happier than average,10
+70,male,29 years,5 years,yes,Anti,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,1
+71,male,35 years,23 years,yes,Slightly,Some graduate work,Managerial/Administrative,Very happy,0
+72,male,37 years,14 years,yes,Very,Master's degree,Professional/Advanced Degree,Somewhat unhappy,8
+73,female,34 years,10 years,yes,Not at all,Master's degree,Managerial/Administrative,Happier than average,8
+74,male,20 years,1 years,no,Slightly,Master's degree,Teacher/Social worker/Nurse/Technician,Very happy,0
+75,female,24 years,5 years,no,Anti,College graduate,White collar/Sales/Clerical,Very happy,7
+76,male,40 years,26 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Somewhat unhappy,17
+77,female,29 years,11 years,yes,Somewhat,College graduate,Student,Happier than average,1
+78,male,30 years,2 years,yes,Somewhat,Some college,Professional/Advanced Degree,Very happy,0
+79,male,36 years,31 years,yes,Very,Master's degree,Professional/Advanced Degree,Very happy,0
+80,male,23 years,0.5833 years,no,Somewhat,Master's degree,Professional/Advanced Degree,Very happy,0
+81,female,28 years,8 years,yes,Somewhat,Some college,Student,Happier than average,0
+82,male,31 years,6 years,yes,Anti,Master's degree,Professional/Advanced Degree,Happier than average,0
+83,male,46 years,24 years,yes,Very,Some graduate work,Professional/Advanced Degree,Happier than average,0
+84,female,34 years,6 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+85,male,31 years,8 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+86,female,28 years,8 years,yes,Not at all,High school graduate,Managerial/Administrative,Very unhappy,0
+87,female,23 years,2 years,yes,Not at all,Some college,Managerial/Administrative,Very happy,0
+88,female,22 years,0.8333 years,yes,Not at all,Some college,Student,Very happy,0
+89,female,29 years,1 years,no,Slightly,Master's degree,Managerial/Administrative,Somewhat unhappy,0
+90,female,49 years,30 years,yes,Very,Some college,Student,Happier than average,0
+91,male,39 years,27 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Average,0
+92,male,25 years,0.5833 years,no,Not at all,Some graduate work,Managerial/Administrative,Very happy,0
+93,male,28 years,0.0833 years,no,Slightly,Doctoral degree,Professional/Advanced Degree,Very happy,0
+94,female,20 years,3 years,yes,Slightly,Some college,Student,Very happy,0
+95,male,33 years,5 years,yes,Not at all,College graduate,Professional/Advanced Degree,Happier than average,0
+96,female,22 years,1 years,no,Not at all,College graduate,Teacher/Social worker/Nurse/Technician,Very happy,0
+97,female,28 years,5 years,yes,Somewhat,Some college,Student,Happier than average,0
+98,female,41 years,12 years,yes,Slightly,Some graduate work,Student,Happier than average,10
+99,male,24 years,1 years,yes,Anti,Some college,White collar/Sales/Clerical,Very happy,0
+100,female,29 years,4 years,yes,Slightly,Some graduate work,Managerial/Administrative,Happier than average,0
+101,male,33 years,10 years,no,Not at all,Master's degree,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,20
+102,female,35 years,21 years,yes,Somewhat,Some college,Student,Somewhat unhappy,0
+103,female,30 years,27 years,yes,Somewhat,Some college,Student,Very happy,0
+104,male,48 years,31 years,no,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+105,female,40 years,33 years,yes,Slightly,High school graduate,Student,Happier than average,0
+106,female,36 years,17 years,yes,Anti,Some graduate work,Managerial/Administrative,Very happy,0
+107,male,31 years,11 years,yes,Not at all,Some graduate work,Professional/Advanced Degree,Very happy,2
+108,male,25 years,0.3333 years,no,Anti,College graduate,White collar/Sales/Clerical,Happier than average,0
+109,female,20 years,5 years,no,Slightly,Some college,Student,Happier than average,0
+110,male,40 years,20 years,yes,Very,Master's degree,Managerial/Administrative,Happier than average,0
+111,female,26 years,1 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+112,male,21 years,5 years,no,Very,High school graduate,Teacher/Social worker/Nurse/Technician,Very happy,0
+113,female,28 years,9 years,yes,Very,Some college,Student,Very happy,0
+114,female,29 years,7 years,yes,Anti,Some college,White collar/Sales/Clerical,Average,18
+115,female,33 years,5 years,yes,Slightly,Some graduate work,Managerial/Administrative,Average,0
+116,male,24 years,0.1667 years,no,Anti,College graduate,White collar/Sales/Clerical,Very happy,0
+117,female,41 years,16 years,yes,Somewhat,College graduate,Managerial/Administrative,Happier than average,4
+118,male,51 years,7 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Somewhat unhappy,0
+119,male,38 years,5 years,yes,Anti,Doctoral degree,Professional/Advanced Degree,Average,11
+120,female,20 years,2 years,no,Not at all,Master's degree,Managerial/Administrative,Very happy,0
+121,male,34 years,4 years,no,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,1
+122,female,38 years,11 years,yes,Somewhat,College graduate,Student,Very happy,0
+123,male,38 years,12 years,yes,Somewhat,Master's degree,Managerial/Administrative,Very unhappy,2
+124,male,49 years,34 years,yes,Very,Some college,Professional/Advanced Degree,Very happy,0
+125,female,30 years,34 years,yes,Somewhat,High school graduate,White collar/Sales/Clerical,Somewhat unhappy,6
+126,female,33 years,11 years,yes,Not at all,Some college,Managerial/Administrative,Very happy,0
+127,female,22 years,1 years,no,Very,Some college,Student,Happier than average,0
+128,male,70 years,32 years,yes,Very,Doctoral degree,Teacher/Social worker/Nurse/Technician,Very happy,7
+129,male,27 years,5 years,no,Anti,Doctoral degree,Managerial/Administrative,Happier than average,0
+130,male,23 years,5 years,yes,Anti,Master's degree,Managerial/Administrative,Happier than average,0
+131,male,42 years,18 years,yes,Slightly,Some graduate work,Professional/Advanced Degree,Very unhappy,4
+132,female,26 years,3 years,no,Somewhat,Master's degree,Managerial/Administrative,Happier than average,0
+133,male,29 years,5 years,yes,Somewhat,Some graduate work,Teacher/Social worker/Nurse/Technician,Happier than average,0
+134,male,34 years,4 years,yes,Not at all,Some college,White collar/Sales/Clerical,Very happy,0
+135,female,29 years,6 years,no,Not at all,Some graduate work,Managerial/Administrative,Very happy,8
+136,male,25 years,3 years,no,Slightly,Some college,White collar/Sales/Clerical,Average,1
+137,male,53 years,17 years,yes,Very,Master's degree,Professional/Advanced Degree,Average,0
+138,male,30 years,4 years,yes,Very,Master's degree,Professional/Advanced Degree,Average,0
+139,female,25 years,0.6667 years,no,Not at all,Some graduate work,Managerial/Administrative,Average,0
+140,female,39 years,18 years,yes,Slightly,Some college,Student,Happier than average,0
+141,female,24 years,1 years,no,Not at all,Some college,Student,Very happy,0
+142,male,41 years,24 years,yes,Slightly,College graduate,Professional/Advanced Degree,Average,1
+143,female,30 years,3 years,yes,Slightly,Master's degree,Managerial/Administrative,Somewhat unhappy,11
+144,male,25 years,1 years,no,Not at all,Master's degree,Managerial/Administrative,Somewhat unhappy,1
+145,male,26 years,3 years,no,Not at all,Master's degree,Teacher/Social worker/Nurse/Technician,Very happy,0
+146,male,24 years,4 years,yes,Not at all,Some graduate work,Professional/Advanced Degree,Happier than average,8
+147,female,30 years,10 years,yes,Somewhat,Master's degree,Student,Very happy,1
+148,male,35 years,13 years,yes,Not at all,Doctoral degree,Unemployed,Somewhat unhappy,0
+149,male,32 years,10 years,yes,Somewhat,Master's degree,Managerial/Administrative,Happier than average,0
+150,female,23 years,2 years,yes,Slightly,College graduate,Managerial/Administrative,Very happy,0
+151,male,80 years,24 years,yes,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Happier than average,0
+152,female,34 years,28 years,no,Slightly,Some graduate work,Managerial/Administrative,Very unhappy,15
+153,female,49 years,19 years,yes,Not at all,Some graduate work,Managerial/Administrative,Somewhat unhappy,4
+154,female,33 years,11 years,yes,Slightly,Some college,Student,Very happy,0
+155,female,52 years,14 years,yes,Very,High school graduate,Student,Average,0
+156,female,27 years,8 years,yes,Slightly,Some graduate work,Managerial/Administrative,Average,2
+157,male,39 years,16 years,yes,Not at all,Master's degree,Professional/Advanced Degree,Happier than average,2
+158,male,27 years,4 years,no,Somewhat,Master's degree,Professional/Advanced Degree,Happier than average,0
+159,female,29 years,6 years,yes,Very,Some college,Student,Happier than average,1
+160,female,37 years,17 years,yes,Not at all,Master's degree,Managerial/Administrative,Happier than average,0
+161,male,34 years,27 years,yes,Slightly,Some college,Professional/Advanced Degree,Average,0
+162,male,52 years,22 years,yes,Somewhat,Some college,Professional/Advanced Degree,Somewhat unhappy,0
+163,male,41 years,11 years,yes,Very,Doctoral degree,Unemployed,Happier than average,0
+164,female,33 years,11 years,no,Not at all,College graduate,Professional/Advanced Degree,Very happy,0
+165,male,27 years,5 years,yes,Somewhat,Some college,Managerial/Administrative,Average,0
+166,male,42 years,2 years,no,Very,Doctoral degree,Professional/Advanced Degree,Very happy,0
+167,female,25 years,6 years,yes,Somewhat,Some graduate work,Student,Happier than average,0
+168,female,37 years,22 years,yes,Somewhat,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,0
+169,male,21 years,0.8333 years,no,Slightly,Some graduate work,Teacher/Social worker/Nurse/Technician,Very happy,0
+170,male,25 years,4 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+171,female,22 years,5 years,no,Slightly,High school graduate,White collar/Sales/Clerical,Happier than average,12
+172,male,28 years,5 years,yes,Slightly,College graduate,Teacher/Social worker/Nurse/Technician,Very happy,0
+173,male,30 years,32 years,yes,Anti,College graduate,Managerial/Administrative,Very happy,0
+174,male,53 years,32 years,yes,Somewhat,College graduate,Managerial/Administrative,Very happy,0
+175,female,31 years,30 years,yes,Slightly,College graduate,Student,Very happy,0
+176,female,22 years,4 years,no,Somewhat,Some college,Managerial/Administrative,Very happy,0
+177,male,35 years,31 years,yes,Somewhat,Master's degree,Managerial/Administrative,Average,0
+178,female,30 years,32 years,yes,Anti,Some college,Managerial/Administrative,Somewhat unhappy,20
+179,female,32 years,0.6667 years,no,Very,Some college,White collar/Sales/Clerical,Average,0
+180,female,29 years,5 years,no,Not at all,Some graduate work,Teacher/Social worker/Nurse/Technician,Very happy,0
+181,male,29 years,5 years,no,Not at all,Some graduate work,Managerial/Administrative,Average,0
+182,female,29 years,4 years,yes,Not at all,Master's degree,Professional/Advanced Degree,Very unhappy,0
+183,female,36 years,32 years,yes,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+184,female,40 years,28 years,yes,Anti,High school graduate,Student,Average,8
+185,female,29 years,6 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Somewhat unhappy,0
+186,female,17 years,0.7500 years,yes,Not at all,High school graduate,Student,Average,14
+187,male,75 years,24 years,yes,Very,Master's degree,Professional/Advanced Degree,Very happy,0
+188,female,33 years,33 years,yes,Somewhat,College graduate,Student,Somewhat unhappy,0
+189,male,39 years,14 years,yes,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Average,0
+190,female,23 years,0.1667 years,no,Not at all,High school graduate,Managerial/Administrative,Very happy,0
+191,male,31 years,4 years,yes,Very,Some college,White collar/Sales/Clerical,Very happy,0
+192,male,25 years,0.6667 years,no,Slightly,College graduate,Managerial/Administrative,Very happy,0
+193,female,38 years,8 years,no,Somewhat,Master's degree,Managerial/Administrative,Very happy,0
+194,male,38 years,11 years,yes,Very,Doctoral degree,Unemployed,Happier than average,0
+195,female,24 years,5 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Happier than average,0
+196,male,38 years,1 years,yes,Somewhat,Master's degree,Managerial/Administrative,Average,0
+197,male,37 years,34 years,yes,Somewhat,Some college,Managerial/Administrative,Average,0
+198,female,43 years,13 years,yes,Not at all,Some graduate work,Managerial/Administrative,Happier than average,3
+199,male,54 years,29 years,yes,Not at all,Some college,Managerial/Administrative,Very happy,0
+200,female,25 years,7 years,yes,Slightly,College graduate,Student,Happier than average,0
+201,male,28 years,1 years,no,Somewhat,College graduate,Managerial/Administrative,Very happy,0
+202,female,25 years,7 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Very happy,0
+203,male,53 years,24 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,7
+204,female,38 years,31 years,yes,Somewhat,College graduate,Student,Very happy,0
+205,female,33 years,9 years,yes,Slightly,Some college,Student,Very happy,0
+206,female,25 years,10 years,yes,Not at all,College graduate,Student,Very happy,0
+207,male,35 years,10 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Somewhat unhappy,12
+208,male,71 years,25 years,yes,Anti,Some graduate work,Teacher/Social worker/Nurse/Technician,Happier than average,2
+209,female,20 years,0.9167 years,no,Very,Some college,White collar/Sales/Clerical,Very happy,0
+210,male,20 years,0.6667 years,yes,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Average,0
+211,male,37 years,27 years,yes,Not at all,College graduate,Managerial/Administrative,Happier than average,2
+212,female,24 years,4 years,yes,Slightly,Grade school,Student,Happier than average,0
+213,male,31 years,0.5000 years,yes,Slightly,High school graduate,White collar/Sales/Clerical,Happier than average,1
+214,female,21 years,7 years,yes,Anti,Some college,White collar/Sales/Clerical,Very happy,0
+215,female,20 years,1 years,no,Anti,College graduate,Professional/Advanced Degree,Very happy,0
+216,female,39 years,21 years,yes,Somewhat,Some graduate work,Student,Very happy,0
+217,male,24 years,2 years,yes,Very,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,0
+218,female,21 years,2 years,no,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+219,female,35 years,21 years,yes,Not at all,Some college,Student,Average,0
+220,female,22 years,0.7500 years,no,Slightly,College graduate,Student,Very happy,0
+221,female,24 years,2 years,no,Not at all,Some graduate work,Managerial/Administrative,Happier than average,0
+222,male,42 years,19 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Somewhat unhappy,0
+223,female,23 years,0.9167 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+224,male,26 years,2 years,no,Slightly,College graduate,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,0
+225,male,32 years,11 years,yes,Slightly,Some graduate work,Professional/Advanced Degree,Average,11
+226,male,32 years,11 years,yes,Somewhat,College graduate,Teacher/Social worker/Nurse/Technician,Very happy,0
+227,male,31 years,8 years,yes,Somewhat,College graduate,Student,Happier than average,11
+228,male,28 years,1 years,yes,Not at all,Some graduate work,Teacher/Social worker/Nurse/Technician,Happier than average,0
+229,male,32 years,6 years,yes,Not at all,Master's degree,Managerial/Administrative,Very happy,0
+230,male,33 years,5 years,yes,Slightly,Doctoral degree,Professional/Advanced Degree,Somewhat unhappy,5
+231,female,41 years,15 years,yes,Slightly,Some college,Teacher/Social worker/Nurse/Technician,Average,15
+232,female,34 years,4 years,yes,Not at all,Some college,Student,Very happy,0
+233,male,29 years,4 years,yes,Slightly,College graduate,Managerial/Administrative,Very happy,0
+234,male,28 years,4 years,no,Anti,Master's degree,Professional/Advanced Degree,Very happy,3
+235,female,48 years,21 years,yes,Very,Some college,Unemployed,Somewhat unhappy,0
+236,female,20 years,0.5000 years,no,Slightly,Some graduate work,Student,Very happy,0
+237,male,27 years,4 years,yes,Somewhat,Some college,Managerial/Administrative,Very happy,0
+238,female,36 years,18 years,yes,Somewhat,Master's degree,Managerial/Administrative,Average,0
+239,female,47 years,30 years,yes,Slightly,College graduate,Managerial/Administrative,Happier than average,0
+240,male,28 years,7 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Happier than average,6
+241,male,22 years,0.7500 years,no,Somewhat,College graduate,Professional/Advanced Degree,Happier than average,0
+242,male,39 years,17 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Very happy,2
+243,female,19 years,0.9167 years,no,Not at all,Master's degree,Managerial/Administrative,Happier than average,0
+244,male,30 years,10 years,yes,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Average,4
+245,female,42 years,25 years,yes,Very,Master's degree,Managerial/Administrative,Happier than average,0
+246,male,30 years,4 years,yes,Not at all,Master's degree,Managerial/Administrative,Average,0
+247,male,34 years,6 years,yes,Not at all,Doctoral degree,Managerial/Administrative,Happier than average,0
+248,male,26 years,5 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Happier than average,0
+249,male,43 years,9 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Happier than average,0
+250,male,23 years,4 years,no,Somewhat,Some college,Agriculture/Manufacturing,Very happy,1
+251,male,78 years,17 years,yes,Slightly,College graduate,Professional/Advanced Degree,Very unhappy,0
+252,male,62 years,29 years,yes,Very,Master's degree,Managerial/Administrative,Somewhat unhappy,0
+253,female,32 years,9 years,yes,Slightly,Some college,Managerial/Administrative,Average,0
+254,female,20 years,1 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+255,female,24 years,1 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+256,male,68 years,27 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+257,female,27 years,8 years,yes,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,0
+258,female,26 years,0.7500 years,no,Somewhat,College graduate,Managerial/Administrative,Very happy,0
+259,female,34 years,16 years,yes,Very,Master's degree,Professional/Advanced Degree,Happier than average,0
+260,female,27 years,7 years,yes,Somewhat,Some college,Managerial/Administrative,Very happy,0
+261,male,40 years,5 years,yes,Slightly,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+262,male,47 years,32 years,no,Anti,Master's degree,Professional/Advanced Degree,Very happy,12
+263,male,21 years,1 years,no,Anti,Master's degree,Professional/Advanced Degree,Very happy,0
+264,female,32 years,28 years,yes,Very,College graduate,Managerial/Administrative,Average,0
+265,male,46 years,23 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,18
+266,female,45 years,35 years,yes,Very,High school graduate,Managerial/Administrative,Happier than average,0
+267,female,37 years,24 years,yes,Not at all,Some college,Student,Very unhappy,0
+268,male,30 years,4 years,no,Anti,Doctoral degree,Professional/Advanced Degree,Very happy,0
+269,male,25 years,0.7500 years,no,Not at all,Master's degree,White collar/Sales/Clerical,Average,0
+270,male,34 years,11 years,yes,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Happier than average,5
+271,female,37 years,29 years,yes,Very,Some college,Student,Average,0
+272,male,25 years,4 years,yes,Anti,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,0
+273,female,33 years,17 years,yes,Somewhat,High school graduate,White collar/Sales/Clerical,Happier than average,0
+274,male,24 years,4 years,yes,Somewhat,Some college,Professional/Advanced Degree,Happier than average,0
+275,female,31 years,7 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Happier than average,0
+276,female,21 years,2 years,no,Slightly,College graduate,Managerial/Administrative,Very happy,0
+277,male,24 years,0.5833 years,no,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Average,0
+278,male,31 years,10 years,yes,Slightly,Some college,Managerial/Administrative,Happier than average,10
+279,male,51 years,26 years,yes,Not at all,Some graduate work,Managerial/Administrative,Happier than average,0
+280,male,47 years,34 years,yes,Somewhat,College graduate,Professional/Advanced Degree,Happier than average,0
+281,male,31 years,17 years,yes,Anti,Some college,Managerial/Administrative,Very happy,0
+282,female,25 years,9 years,yes,Somewhat,High school graduate,Unemployed,Average,9
+283,female,30 years,23 years,yes,Slightly,Some college,Student,Very happy,1
+284,male,62 years,25 years,yes,Somewhat,Grade school,Agriculture/Manufacturing,Happier than average,0
+285,female,60 years,35 years,yes,Somewhat,College graduate,Professional/Advanced Degree,Happier than average,0
+286,female,35 years,31 years,yes,Not at all,Some college,Managerial/Administrative,Very unhappy,0
+287,female,22 years,5 years,yes,Not at all,Some college,Student,Average,0
+288,female,30 years,26 years,yes,Somewhat,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,6
+289,female,29 years,3 years,no,Not at all,Master's degree,Managerial/Administrative,Very happy,0
+290,female,21 years,1 years,no,Slightly,College graduate,Professional/Advanced Degree,Very happy,0
+291,female,42 years,19 years,yes,Not at all,High school graduate,Student,Somewhat unhappy,14
+292,female,29 years,8 years,yes,Somewhat,Some graduate work,Student,Happier than average,0
+293,male,38 years,15 years,yes,Very,Doctoral degree,Teacher/Social worker/Nurse/Technician,Very happy,0
+294,female,24 years,2 years,no,Not at all,Some college,White collar/Sales/Clerical,Happier than average,7
+295,female,21 years,1 years,yes,Slightly,High school graduate,Student,Average,0
+296,male,23 years,5 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Happier than average,9
+297,female,52 years,29 years,yes,Slightly,College graduate,Managerial/Administrative,Happier than average,0
+298,female,50 years,19 years,yes,Somewhat,Some college,Student,Average,0
+299,female,38 years,8 years,yes,Slightly,Some college,Teacher/Social worker/Nurse/Technician,Happier than average,0
+300,female,27 years,2 years,no,Slightly,Some graduate work,Managerial/Administrative,Very happy,0
+301,female,23 years,2 years,no,Not at all,Some college,Managerial/Administrative,Happier than average,0
+302,female,40 years,33 years,yes,Very,Some college,Student,Very happy,0
+303,female,29 years,10 years,yes,Not at all,Some college,Student,Very happy,0
+304,male,26 years,8 years,yes,Somewhat,Some college,Managerial/Administrative,Average,0
+305,male,38 years,28 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,10
+306,female,29 years,7 years,yes,Slightly,Some college,Student,Happier than average,0
+307,male,26 years,8 years,yes,Somewhat,College graduate,Managerial/Administrative,Very happy,0
+308,female,26 years,5 years,yes,Somewhat,High school graduate,Student,Very happy,0
+309,female,31 years,19 years,yes,Slightly,Some graduate work,Student,Average,9
+310,female,37 years,19 years,yes,Somewhat,Some graduate work,Professional/Advanced Degree,Very happy,0
+311,male,38 years,27 years,yes,Somewhat,Some college,Managerial/Administrative,Somewhat unhappy,17
+312,female,32 years,21 years,yes,Slightly,Master's degree,Managerial/Administrative,Happier than average,14
+313,male,35 years,11 years,yes,Somewhat,College graduate,Managerial/Administrative,Happier than average,0
+314,male,26 years,2 years,no,Not at all,Some graduate work,Professional/Advanced Degree,Very happy,0
+315,male,32 years,9 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Average,0
+316,male,35 years,33 years,no,Slightly,Some college,Professional/Advanced Degree,Somewhat unhappy,20
+317,female,37 years,13 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Very unhappy,0
+318,female,34 years,17 years,yes,Somewhat,Master's degree,Student,Happier than average,0
+319,female,21 years,1 years,no,Slightly,Some graduate work,Managerial/Administrative,Very happy,0
+320,female,28 years,7 years,yes,Somewhat,Some college,Professional/Advanced Degree,Somewhat unhappy,19
+321,female,36 years,14 years,yes,Somewhat,High school graduate,Student,Somewhat unhappy,0
+322,male,28 years,5 years,yes,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+323,male,29 years,0.3333 years,no,Somewhat,Some graduate work,Professional/Advanced Degree,Happier than average,0
+324,female,19 years,11 years,no,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+325,male,38 years,12 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Somewhat unhappy,0
+326,female,58 years,20 years,yes,Not at all,Master's degree,Managerial/Administrative,Somewhat unhappy,0
+327,male,34 years,10 years,yes,Somewhat,Doctoral degree,Teacher/Social worker/Nurse/Technician,Very happy,0
+328,male,22 years,2 years,no,Somewhat,College graduate,Managerial/Administrative,Happier than average,0
+329,female,20 years,3 years,yes,Anti,Some college,Managerial/Administrative,Happier than average,0
+330,male,37 years,7 years,no,Somewhat,Master's degree,Managerial/Administrative,Very happy,0
+331,female,49 years,15 years,yes,Very,Some college,Teacher/Social worker/Nurse/Technician,Very happy,1
+332,male,41 years,34 years,yes,Somewhat,Some graduate work,Professional/Advanced Degree,Very happy,0
+333,female,36 years,16 years,yes,Not at all,College graduate,Student,Happier than average,0
+334,male,36 years,34 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+335,male,28 years,2 years,yes,Slightly,Some graduate work,Managerial/Administrative,Happier than average,12
+336,female,21 years,0.1667 years,no,Not at all,College graduate,Professional/Advanced Degree,Average,0
+337,male,44 years,31 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Very happy,0
+338,female,21 years,0.7500 years,no,Not at all,College graduate,White collar/Sales/Clerical,Happier than average,0
+339,female,38 years,19 years,yes,Not at all,Some graduate work,Managerial/Administrative,Very happy,0
+340,female,44 years,16 years,yes,Very,Some graduate work,Professional/Advanced Degree,Somewhat unhappy,0
+341,male,33 years,5 years,yes,Not at all,College graduate,Managerial/Administrative,Very happy,0
+342,female,42 years,18 years,yes,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+343,female,29 years,5 years,yes,Anti,College graduate,White collar/Sales/Clerical,Very happy,2
+344,male,35 years,5 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+345,male,35 years,4 years,yes,Anti,Master's degree,Managerial/Administrative,Happier than average,0
+346,female,29 years,6 years,yes,Somewhat,College graduate,Student,Somewhat unhappy,10
+347,male,25 years,4 years,yes,Slightly,Doctoral degree,Professional/Advanced Degree,Very happy,0
+348,male,29 years,8 years,yes,Not at all,Some graduate work,Managerial/Administrative,Happier than average,17
+349,male,39 years,10 years,yes,Not at all,Some college,Managerial/Administrative,Average,0
+350,female,36 years,34 years,yes,Not at all,Some college,Student,Average,0
+351,male,37 years,21 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+352,male,27 years,6 years,yes,Not at all,Doctoral degree,Managerial/Administrative,Happier than average,0
+353,male,29 years,5 years,yes,Not at all,Master's degree,Unemployed,Somewhat unhappy,5
+354,female,31 years,2 years,no,Not at all,Some graduate work,Managerial/Administrative,Very happy,0
+355,male,28 years,1 years,no,Slightly,Master's degree,Teacher/Social worker/Nurse/Technician,Happier than average,6
+356,female,41 years,35 years,yes,Not at all,Some college,Student,Happier than average,0
+357,male,26 years,8 years,yes,Slightly,College graduate,Professional/Advanced Degree,Average,0
+358,female,37 years,22 years,yes,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,1
+359,male,38 years,19 years,yes,Slightly,Some graduate work,Managerial/Administrative,Happier than average,0
+360,female,20 years,1 years,yes,Slightly,Master's degree,Managerial/Administrative,Somewhat unhappy,1
+361,male,42 years,19 years,yes,Slightly,Doctoral degree,Managerial/Administrative,Happier than average,11
+362,female,40 years,24 years,yes,Somewhat,High school graduate,Student,Very unhappy,19
+363,female,54 years,29 years,yes,Very,Grade school,Managerial/Administrative,Very happy,0
+364,female,21 years,7 years,no,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Average,2
+365,male,37 years,14 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Very happy,0
+366,female,25 years,1 years,no,Not at all,Some graduate work,White collar/Sales/Clerical,Somewhat unhappy,0
+367,male,31 years,10 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+368,male,29 years,5 years,no,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Very happy,1
+369,female,31 years,14 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Happier than average,0
+370,female,22 years,0.4167 years,no,Anti,Some graduate work,Professional/Advanced Degree,Happier than average,0
+371,male,38 years,34 years,yes,Somewhat,Doctoral degree,Managerial/Administrative,Happier than average,0
+372,female,23 years,1 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+373,female,29 years,4 years,yes,Slightly,Master's degree,Teacher/Social worker/Nurse/Technician,Very happy,0
+374,female,74 years,31 years,yes,Anti,Master's degree,Managerial/Administrative,Happier than average,2
+375,female,23 years,1 years,no,Slightly,Some college,Student,Very happy,0
+376,female,23 years,7 years,yes,Not at all,Some college,Managerial/Administrative,Somewhat unhappy,0
+377,female,29 years,3 years,yes,Not at all,College graduate,Student,Happier than average,0
+378,male,47 years,34 years,yes,Somewhat,Some graduate work,Professional/Advanced Degree,Very happy,12
+379,female,38 years,13 years,yes,Very,Some college,Managerial/Administrative,Happier than average,0
+380,male,30 years,9 years,yes,Slightly,Doctoral degree,Professional/Advanced Degree,Very happy,0
+381,male,25 years,1 years,no,Slightly,Master's degree,Managerial/Administrative,Very happy,0
+382,female,20 years,1 years,no,Very,College graduate,Managerial/Administrative,Very happy,0
+383,male,34 years,32 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Very happy,2
+384,female,29 years,4 years,no,Slightly,Some graduate work,Managerial/Administrative,Very happy,8
+385,female,26 years,1 years,no,Not at all,College graduate,Professional/Advanced Degree,Very happy,0
+386,female,22 years,1 years,no,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+387,female,41 years,12 years,yes,Slightly,High school graduate,White collar/Sales/Clerical,Average,0
+388,male,54 years,29 years,yes,Not at all,Some college,Unemployed,Happier than average,0
+389,female,21 years,2 years,no,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+390,male,34 years,7 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,1
+391,male,37 years,9 years,yes,Anti,Master's degree,Managerial/Administrative,Average,10
+392,female,20 years,0.9167 years,no,Not at all,Master's degree,Professional/Advanced Degree,Very happy,0
+393,female,40 years,12 years,yes,Slightly,Some college,Student,Average,0
+394,female,44 years,25 years,yes,Somewhat,Some college,Managerial/Administrative,Somewhat unhappy,10
+395,female,22 years,0.4167 years,no,Somewhat,Some college,Managerial/Administrative,Very happy,0
+396,male,53 years,6 years,no,Somewhat,College graduate,Managerial/Administrative,Very happy,19
+397,male,35 years,11 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+398,female,37 years,9 years,no,Not at all,High school graduate,Teacher/Social worker/Nurse/Technician,Happier than average,0
+399,male,35 years,11 years,yes,Anti,College graduate,Professional/Advanced Degree,Happier than average,0
+400,male,51 years,32 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Average,1
+401,male,44 years,30 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Average,0
+402,male,77 years,16 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+403,male,63 years,29 years,no,Somewhat,Grade school,White collar/Sales/Clerical,Very unhappy,0
+404,female,30 years,23 years,yes,Not at all,Some college,White collar/Sales/Clerical,Happier than average,0
+405,female,22 years,2 years,no,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+406,male,25 years,4 years,no,Not at all,Master's degree,Professional/Advanced Degree,Average,0
+407,male,30 years,1 years,no,Not at all,Master's degree,Teacher/Social worker/Nurse/Technician,Happier than average,0
+408,female,26 years,5 years,no,Not at all,Some college,Managerial/Administrative,Very happy,14
+409,male,26 years,4 years,yes,Slightly,College graduate,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,0
+410,male,33 years,7 years,no,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+411,female,26 years,8 years,yes,Very,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+412,female,26 years,3 years,yes,Not at all,College graduate,Student,Happier than average,0
+413,female,24 years,0.5833 years,no,Very,Master's degree,Student,Very happy,0
+414,female,36 years,11 years,no,Anti,Doctoral degree,Managerial/Administrative,Average,9
+415,male,29 years,6 years,yes,Very,High school graduate,Managerial/Administrative,Average,0
+416,male,33 years,4 years,yes,Anti,Master's degree,Professional/Advanced Degree,Happier than average,0
+417,male,20 years,1 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+418,female,47 years,20 years,yes,Somewhat,Master's degree,Managerial/Administrative,Happier than average,0
+419,female,31 years,12 years,yes,Somewhat,High school graduate,Student,Very happy,0
+420,male,38 years,10 years,yes,Slightly,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+421,male,27 years,11 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Very happy,1
+422,female,28 years,8 years,yes,Slightly,High school graduate,Student,Somewhat unhappy,0
+423,male,50 years,27 years,yes,Not at all,Master's degree,Managerial/Administrative,Happier than average,0
+424,female,23 years,1 years,yes,Slightly,Some college,Student,Very happy,0
+425,female,24 years,1 years,yes,Not at all,Some college,Student,Very happy,1
+426,male,21 years,2 years,no,Somewhat,Some college,Managerial/Administrative,Very happy,0
+427,female,25 years,3 years,yes,Somewhat,High school graduate,Student,Very happy,0
+428,male,39 years,22 years,yes,Not at all,Doctoral degree,Managerial/Administrative,Happier than average,14
+429,male,30 years,8 years,yes,Somewhat,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,1
+430,female,34 years,10 years,yes,Somewhat,Some college,Student,Very happy,0
+431,male,30 years,4 years,yes,Not at all,College graduate,Managerial/Administrative,Very happy,0
+432,female,50 years,30 years,yes,Very,College graduate,Student,Average,10
+433,female,27 years,5 years,yes,Slightly,Master's degree,Managerial/Administrative,Happier than average,7
+434,male,44 years,18 years,yes,Somewhat,College graduate,Managerial/Administrative,Very happy,1
+435,male,29 years,5 years,yes,Not at all,Doctoral degree,Managerial/Administrative,Very happy,0
+436,male,30 years,20 years,yes,Anti,Some college,Managerial/Administrative,Very happy,0
+437,male,21 years,0.5833 years,yes,Slightly,Some college,Agriculture/Manufacturing,Happier than average,0
+438,male,34 years,10 years,no,Very,Master's degree,Professional/Advanced Degree,Happier than average,0
+439,male,24 years,1 years,no,Slightly,College graduate,White collar/Sales/Clerical,Very happy,0
+440,female,40 years,34 years,yes,Very,Grade school,Teacher/Social worker/Nurse/Technician,Very unhappy,13
+441,male,33 years,5 years,no,Slightly,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+442,female,22 years,0.1667 years,no,Somewhat,High school graduate,Teacher/Social worker/Nurse/Technician,Very happy,0
+443,female,54 years,33 years,yes,Slightly,Some college,Teacher/Social worker/Nurse/Technician,Happier than average,1
+444,male,20 years,7 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Somewhat unhappy,2
+445,male,38 years,22 years,yes,Somewhat,Some college,Managerial/Administrative,Very happy,0
+446,male,29 years,8 years,yes,Anti,Master's degree,Professional/Advanced Degree,Somewhat unhappy,16
+447,male,26 years,1 years,yes,Not at all,College graduate,Agriculture/Manufacturing,Happier than average,0
+448,female,30 years,8 years,yes,Very,Some graduate work,Managerial/Administrative,Average,0
+449,male,32 years,6 years,yes,Not at all,High school graduate,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,12
+450,male,41 years,32 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+451,male,54 years,13 years,yes,Somewhat,High school graduate,Agriculture/Manufacturing,Happier than average,0
+452,female,26 years,8 years,yes,Not at all,College graduate,Student,Somewhat unhappy,0
+453,male,20 years,5 years,no,Anti,Master's degree,Managerial/Administrative,Very happy,0
+454,male,17 years,2 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Very happy,0
+455,male,45 years,26 years,no,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+456,male,21 years,2 years,no,Somewhat,Some graduate work,Professional/Advanced Degree,Very happy,0
+457,male,61 years,32 years,yes,Very,Doctoral degree,Managerial/Administrative,Average,0
+458,male,21 years,0.7500 years,no,Not at all,Some graduate work,Professional/Advanced Degree,Average,0
+459,female,29 years,9 years,yes,Not at all,College graduate,Student,Happier than average,0
+460,female,32 years,9 years,yes,Somewhat,Some college,Student,Happier than average,4
+461,female,42 years,28 years,yes,Slightly,Master's degree,Professional/Advanced Degree,Happier than average,0
+462,female,43 years,35 years,yes,Not at all,Some college,White collar/Sales/Clerical,Somewhat unhappy,9
+463,male,41 years,5 years,no,Somewhat,Some graduate work,White collar/Sales/Clerical,Average,0
+464,female,32 years,11 years,yes,Not at all,College graduate,Managerial/Administrative,Happier than average,0
+465,female,18 years,0.8333 years,no,Very,Some college,Teacher/Social worker/Nurse/Technician,Very happy,1
+466,male,24 years,1 years,yes,Anti,High school graduate,Agriculture/Manufacturing,Very happy,1
+467,female,33 years,14 years,yes,Slightly,Some college,Student,Somewhat unhappy,14
+468,female,20 years,5 years,no,Not at all,Some college,White collar/Sales/Clerical,Average,0
+469,male,39 years,32 years,yes,Very,Doctoral degree,Managerial/Administrative,Happier than average,0
+470,male,27 years,3 years,yes,Slightly,Master's degree,Managerial/Administrative,Very happy,0
+471,male,27 years,0.3333 years,yes,Somewhat,Doctoral degree,Managerial/Administrative,Happier than average,0
+472,female,40 years,30 years,yes,Slightly,High school graduate,White collar/Sales/Clerical,Average,0
+473,male,36 years,12 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+474,male,28 years,5 years,yes,Slightly,Master's degree,Managerial/Administrative,Very happy,1
+475,female,27 years,10 years,yes,Somewhat,College graduate,Student,Average,0
+476,male,41 years,5 years,yes,Somewhat,Master's degree,Managerial/Administrative,Very happy,0
+477,female,42 years,20 years,yes,Slightly,Master's degree,Student,Happier than average,0
+478,female,20 years,4 years,no,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+479,female,27 years,11 years,yes,Somewhat,College graduate,Managerial/Administrative,Happier than average,0
+480,male,32 years,0.1667 years,yes,Not at all,Master's degree,Managerial/Administrative,Somewhat unhappy,0
+481,male,26 years,3 years,yes,Anti,Master's degree,Managerial/Administrative,Happier than average,1
+482,male,76 years,29 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+483,male,27 years,1 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Very happy,0
+484,female,26 years,7 years,yes,Not at all,Some college,Student,Somewhat unhappy,0
+485,female,26 years,8 years,no,Slightly,College graduate,Managerial/Administrative,Happier than average,0
+486,female,28 years,2 years,no,Not at all,Master's degree,Professional/Advanced Degree,Very happy,0
+487,male,24 years,5 years,no,Slightly,College graduate,Managerial/Administrative,Very happy,0
+488,female,21 years,0.5000 years,no,Very,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+489,male,36 years,9 years,yes,Not at all,Master's degree,Professional/Advanced Degree,Happier than average,0
+490,male,37 years,26 years,yes,Very,Some graduate work,Managerial/Administrative,Somewhat unhappy,12
+491,male,36 years,6 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Average,0
+492,female,33 years,18 years,yes,Slightly,Some college,Managerial/Administrative,Average,0
+493,male,25 years,8 years,yes,Somewhat,Some college,White collar/Sales/Clerical,Average,0
+494,female,27 years,8 years,yes,Not at all,College graduate,Agriculture/Manufacturing,Very happy,0
+495,female,26 years,7 years,no,Somewhat,College graduate,Student,Very happy,0
+496,female,53 years,21 years,yes,Anti,Master's degree,Managerial/Administrative,Very happy,20
+497,female,21 years,6 years,yes,Somewhat,Some college,Student,Very happy,0
+498,male,66 years,18 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+499,male,20 years,3 years,yes,Somewhat,Some college,Agriculture/Manufacturing,Happier than average,0
+500,female,24 years,2 years,no,Slightly,College graduate,Managerial/Administrative,Very happy,0
+501,male,33 years,10 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+502,female,46 years,18 years,yes,Slightly,Some graduate work,Professional/Advanced Degree,Very happy,0
+503,male,47 years,14 years,yes,Somewhat,Some graduate work,Professional/Advanced Degree,Very happy,0
+504,female,25 years,6 years,yes,Not at all,High school graduate,Student,Somewhat unhappy,0
+505,male,37 years,32 years,no,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+506,female,25 years,8 years,yes,Somewhat,High school graduate,Student,Somewhat unhappy,4
+507,female,51 years,17 years,yes,Very,Some college,Student,Very happy,0
+508,female,28 years,3 years,yes,Not at all,Master's degree,Managerial/Administrative,Very happy,0
+509,male,25 years,3 years,no,Slightly,Some college,White collar/Sales/Clerical,Happier than average,11
+510,female,21 years,0.5833 years,no,Slightly,College graduate,Student,Very happy,0
+511,female,22 years,2 years,yes,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+512,male,38 years,11 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Somewhat unhappy,13
+513,female,72 years,33 years,no,Somewhat,Doctoral degree,Professional/Advanced Degree,Very happy,0
+514,male,46 years,19 years,yes,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Average,0
+515,female,27 years,0.6667 years,no,Somewhat,Some graduate work,Managerial/Administrative,Happier than average,0
+516,male,38 years,12 years,yes,Slightly,Doctoral degree,Professional/Advanced Degree,Happier than average,11
+517,female,33 years,22 years,yes,Very,Master's degree,Managerial/Administrative,Happier than average,9
+518,female,21 years,0.7500 years,no,Somewhat,College graduate,Student,Very happy,0
+519,female,23 years,2 years,no,Not at all,Some college,Managerial/Administrative,Very happy,0
+520,male,26 years,8 years,yes,Anti,College graduate,Managerial/Administrative,Happier than average,0
+521,female,27 years,4 years,no,Somewhat,Some college,Managerial/Administrative,Happier than average,0
+522,male,21 years,2 years,no,Not at all,Master's degree,Managerial/Administrative,Average,0
+523,male,40 years,20 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Average,0
+524,female,33 years,9 years,yes,Very,Some college,Managerial/Administrative,Very happy,0
+525,male,56 years,22 years,yes,Not at all,Some college,Unemployed,Somewhat unhappy,0
+526,male,27 years,2 years,yes,Somewhat,College graduate,White collar/Sales/Clerical,Very happy,0
+527,male,36 years,19 years,yes,Not at all,Some graduate work,Managerial/Administrative,Happier than average,13
+528,female,39 years,11 years,yes,Slightly,College graduate,Professional/Advanced Degree,Average,0
+529,female,24 years,1 years,no,Somewhat,College graduate,Managerial/Administrative,Average,0
+530,female,48 years,34 years,yes,Somewhat,High school graduate,Agriculture/Manufacturing,Average,0
+531,male,64 years,24 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Very happy,0
+532,female,43 years,30 years,yes,Slightly,Master's degree,Managerial/Administrative,Happier than average,0
+533,female,32 years,11 years,yes,Not at all,College graduate,Managerial/Administrative,Very happy,19
+534,male,25 years,4 years,yes,Very,Some graduate work,Agriculture/Manufacturing,Very happy,0
+535,male,29 years,4 years,yes,Slightly,Some graduate work,Professional/Advanced Degree,Very happy,0
+536,female,27 years,6 years,yes,Somewhat,Some college,Student,Very happy,0
+537,male,25 years,4 years,no,Slightly,Doctoral degree,Professional/Advanced Degree,Average,0
+538,female,43 years,23 years,yes,Not at all,Some graduate work,Professional/Advanced Degree,Average,2
+539,female,24 years,2 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+540,female,23 years,2 years,no,Somewhat,College graduate,Managerial/Administrative,Average,0
+541,female,27 years,1 years,no,Not at all,Some graduate work,Managerial/Administrative,Very happy,11
+542,female,30 years,9 years,yes,Somewhat,Some college,Student,Happier than average,0
+543,male,39 years,26 years,yes,Slightly,Some graduate work,Professional/Advanced Degree,Average,13
+544,female,30 years,7 years,yes,Somewhat,Master's degree,Teacher/Social worker/Nurse/Technician,Very happy,9
+545,female,43 years,27 years,yes,Somewhat,Some college,Student,Somewhat unhappy,16
+546,male,41 years,15 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Average,0
+547,male,29 years,5 years,yes,Somewhat,Doctoral degree,Managerial/Administrative,Very happy,0
+548,female,20 years,0.2500 years,no,Somewhat,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+549,female,32 years,7 years,yes,Somewhat,College graduate,Student,Average,0
+550,female,30 years,9 years,yes,Slightly,Some graduate work,Managerial/Administrative,Somewhat unhappy,12
+551,male,39 years,9 years,no,Slightly,Master's degree,Unemployed,Happier than average,0
+552,female,20 years,1 years,no,Anti,Some college,Student,Very happy,0
+553,male,30 years,10 years,yes,Slightly,Some college,Managerial/Administrative,Very happy,0
+554,female,24 years,0.2500 years,no,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+555,male,80 years,30 years,yes,Somewhat,Grade school,Agriculture/Manufacturing,Somewhat unhappy,0
+556,male,38 years,6 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Very happy,0
+557,female,26 years,5 years,no,Slightly,College graduate,Managerial/Administrative,Happier than average,0
+558,female,34 years,9 years,yes,Very,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+559,female,30 years,7 years,yes,Slightly,College graduate,Student,Very happy,0
+560,female,30 years,29 years,yes,Slightly,Some college,White collar/Sales/Clerical,Somewhat unhappy,7
+561,male,43 years,28 years,yes,Very,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+562,female,41 years,35 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Very happy,0
+563,male,34 years,6 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Very happy,0
+564,female,26 years,2 years,no,Somewhat,Some graduate work,Student,Average,0
+565,female,20 years,1 years,no,Not at all,College graduate,Managerial/Administrative,Very happy,0
+566,female,25 years,6 years,no,Not at all,Some graduate work,Managerial/Administrative,Happier than average,0
+567,male,40 years,20 years,yes,Somewhat,College graduate,Teacher/Social worker/Nurse/Technician,Happier than average,0
+568,male,39 years,31 years,yes,Somewhat,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+569,female,47 years,17 years,yes,Not at all,Some college,Managerial/Administrative,Very happy,0
+570,female,28 years,1 years,yes,Somewhat,Some graduate work,Student,Somewhat unhappy,0
+571,female,32 years,11 years,yes,Anti,Master's degree,Student,Happier than average,0
+572,male,33 years,3 years,yes,Somewhat,Master's degree,Professional/Advanced Degree,Happier than average,2
+573,male,24 years,1 years,no,Not at all,High school graduate,White collar/Sales/Clerical,Average,5
+574,male,21 years,0.1667 years,no,Somewhat,College graduate,Managerial/Administrative,Very happy,1
+575,female,33 years,6 years,yes,Somewhat,Some graduate work,Student,Very happy,0
+576,male,43 years,29 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Happier than average,0
+577,male,41 years,23 years,yes,Slightly,Some college,White collar/Sales/Clerical,Happier than average,0
+578,male,79 years,26 years,yes,Somewhat,Doctoral degree,Managerial/Administrative,Happier than average,0
+579,male,30 years,2 years,no,Not at all,Doctoral degree,Unemployed,Average,0
+580,male,32 years,1 years,yes,Not at all,Some college,Agriculture/Manufacturing,Happier than average,1
+581,male,47 years,18 years,yes,Slightly,College graduate,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,8
+582,female,29 years,3 years,no,Anti,Some graduate work,White collar/Sales/Clerical,Very unhappy,2
+583,female,26 years,4 years,no,Somewhat,Some college,Professional/Advanced Degree,Happier than average,0
+584,male,28 years,6 years,yes,Not at all,Doctoral degree,Professional/Advanced Degree,Somewhat unhappy,0
+585,male,47 years,30 years,yes,Very,College graduate,Managerial/Administrative,Happier than average,5
+586,male,36 years,11 years,yes,Not at all,Master's degree,Unemployed,Average,7
+587,female,23 years,0.8333 years,no,Slightly,College graduate,Managerial/Administrative,Happier than average,0
+588,female,28 years,5 years,yes,Anti,College graduate,Managerial/Administrative,Very happy,0
+589,female,21 years,1 years,no,Not at all,Some college,Teacher/Social worker/Nurse/Technician,Very happy,0
+590,male,37 years,35 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Average,0
+591,female,32 years,9 years,yes,Slightly,Some graduate work,Student,Happier than average,0
+592,female,39 years,18 years,yes,Not at all,Master's degree,Teacher/Social worker/Nurse/Technician,Average,0
+593,female,21 years,0.8333 years,no,Not at all,College graduate,Managerial/Administrative,Happier than average,0
+594,female,24 years,5 years,yes,Slightly,College graduate,Student,Average,1
+595,male,36 years,25 years,yes,Somewhat,Some graduate work,Managerial/Administrative,Average,0
+596,male,35 years,12 years,yes,Somewhat,Doctoral degree,Unemployed,Average,2
+597,male,20 years,3 years,no,Somewhat,Some graduate work,Managerial/Administrative,Average,0
+598,female,20 years,1 years,no,Not at all,College graduate,Student,Happier than average,0
+599,female,36 years,12 years,yes,Somewhat,High school graduate,Teacher/Social worker/Nurse/Technician,Somewhat unhappy,0
+600,male,24 years,2 years,no,Anti,Some college,White collar/Sales/Clerical,Somewhat unhappy,4
+601,male,25 years,1 years,no,Very,Doctoral degree,Managerial/Administrative,Somewhat unhappy,0
